@@ -1,0 +1,41 @@
+
+Rasa NLU scores 98.08% with 61 false predictions in total 3177 samples
+Snips NLU scores 97.70% with 73 false predictions in total 3177 samples
+
+
+Total
+PlayMusic               2300
+GetWeather              2300
+BookRestaurant          2273
+SearchScreeningEvent    2259
+RateBook                2256
+SearchCreativeWork      2254
+AddToPlaylist           2242
+
+
+Train
+SearchScreeningEvent    479
+PlayMusic               478
+SearchCreativeWork      474
+BookRestaurant          445
+GetWeather              436
+AddToPlaylist           433
+RateBook                431
+
+Test 
+GetWeather              1864
+BookRestaurant          1828
+RateBook                1825
+PlayMusic               1822
+AddToPlaylist           1809
+SearchCreativeWork      1780
+SearchScreeningEvent    1780
+
+Rasa NLU scores 97.29% with 344 false predictions in total 12708 samples
+Snips NLU scores 96.69% with 421 false predictions in total 12708 samples
+DNN NLU scores 97.94% with 262 false predictions in total 12708 samples
+
+small talk 86 intents
+DNN NLU scores 68.12% with 124 false predictions in total 389 samples
+Snips NLU scores 72.49% with 107 false predictions in total 389 samples
+Rasa NLU scores 82.26% with 69 false predictions in total 389 samples
